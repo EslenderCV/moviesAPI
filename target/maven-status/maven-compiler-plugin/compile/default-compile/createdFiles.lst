@@ -1,0 +1,9 @@
+dev/eslender/movies/movieController.class
+dev/eslender/movies/MoviesService.class
+dev/eslender/movies/Movies.class
+dev/eslender/movies/ReviewsService.class
+dev/eslender/movies/ReviewsController.class
+dev/eslender/movies/ReviewsRepository.class
+dev/eslender/movies/MoviesRepository.class
+dev/eslender/movies/Reviews.class
+dev/eslender/movies/MoviesApplication.class
